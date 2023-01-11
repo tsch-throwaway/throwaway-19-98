@@ -1,3 +1,8 @@
+---
+title: Throwaway 19-98 | un borrador de cosas
+layout: base.njk
+permalink: /un-borrador-de-cosas/index.html
+---
 # un borrador de cosas
 
 > Martes, 10 de Enero, 2023. 23:16
