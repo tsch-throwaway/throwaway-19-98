@@ -7,3 +7,4 @@ layout: base.njk
 Esto es lo primero... vamos a ver como sigue
 
 - [2023-01-10 - un borrador de cosas](./un-borrador-de-cosas)
+- [2023-01-11 - turningthisthingon](./turningthisthingon)
