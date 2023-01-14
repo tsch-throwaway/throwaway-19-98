@@ -1,10 +1,10 @@
 ---
-title: Throwaway 19-98
+title: tsch.tt
 layout: base.njk
 ---
 # tsch.tt
 
-## un borrador de cosas
+## [un borrador de cosas](/notas/un-borrador-de-cosas)
 
 > Martes, 10 de Enero, 2023. 23:16
 
@@ -18,9 +18,9 @@ Ahora estoy de vuelta con ganas de subir cosas de lo que vengo haciendo desde 20
 
 Todos los dias voy a subir algo de lo que tengo armado, sea lo que sea. Quizas tambien cosas nuevas, no se todavia...
 
-Esto es lo primero... Vamos a ver como sigue
+Esto es lo primero, vamos a ver como sigue...
 
 ## lo último
 
-- [2023-01-10 - un borrador de cosas](./un-borrador-de-cosas)
-- [2023-01-11 - turningthisthingon](./turningthisthingon)
+- [2023-01-11 - throwaway 19-98 - turningthisthing-on](/throwaway/turningthisthing-on)
+- [2023-01-10 - notas - un borrador de cosas](/notas/un-borrador-de-cosas)
